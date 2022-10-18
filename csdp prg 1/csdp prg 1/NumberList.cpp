@@ -1,8 +1,6 @@
 //  NumberList.cpp
 //  csdp 250 prg 1
-
-
-
+//  Amir Gawish
 
 #include "NumberList.hpp"
 #include <iostream>
