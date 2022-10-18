@@ -23,8 +23,6 @@ using namespace std;
  
     delete a node (by the id), and display the list.
  
-  ty(6),y(7), x(9) ,
- 
  */
 
 int main()
